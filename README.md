@@ -44,6 +44,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ### System design
 
 - [System Design Newsletter](https://open.substack.com/pub/systemdesignone)
+- [Quastor](https://blog.quastor.org/)
 - [ByteByteGo Newsletter](https://open.substack.com/pub/bytebytego)
 - [Byte-Sized Design](https://open.substack.com/users/134878169-byte-sized-design?utm_source=mentions)
 - [The Polymathic Engineer](https://open.substack.com/pub/francofernando)
