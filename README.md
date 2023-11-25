@@ -48,12 +48,19 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Byte-Sized Design](https://open.substack.com/users/134878169-byte-sized-design?utm_source=mentions)
 - [The Polymathic Engineer](https://open.substack.com/pub/francofernando)
 
+### Reliability Engineering
+
+- [SRE Weekly](https://sreweekly.com/)
+- [Platform Engineering Weekly](https://www.platformengineeringweekly.com/)
+- [Alex Ewerlöf Notes/SRE](https://blog.alexewerlof.com/s/sre)
+
 ### Leadership
 
 - [The Hybrid Hacker](https://open.substack.com/pub/hybridhacker)
 - [Leading Developers](https://open.substack.com/pub/zaidesanton)
 - [Engineering Leadership](https://open.substack.com/pub/gregorojstersek)
 - [Addy Osmani](https://addyosmani.com/blog/) ([RSS Link](https://addyosmani.com/feed.xml))
+- [Irrational Exuberance](https://lethain.com/newsletter/)
 
 ### Web-dev specific
 
