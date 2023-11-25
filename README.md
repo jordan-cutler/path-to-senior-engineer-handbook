@@ -12,11 +12,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
 
----
-
 ## Newsletters
-
----
 
 ### General software engineer growth
 
@@ -71,8 +67,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [CSS Weekly](https://css-weekly.com/)
 
 ## Books
-
----
 
 ### Communication, writing, relationships
 
@@ -146,11 +140,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The art of thinking clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli-ebook/dp/B00IZP6EVQ/ref=sr_1_1?crid=3II2LONJG6CWH&keywords=the+art+of+thinking+clearly&qid=1697902245&sprefix=the+art+of+thinking+clearly%2Caps%2C87&sr=8-1)
 - [Thinking in systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA/ref=sr_1_1?crid=2X0LDBXCN8T01&keywords=thinking+in+systems&qid=1697902386&sprefix=thinking+in+systems%2Caps%2C93&sr=8-1)
 
-
-
 ## Courses
-
----
 
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior)
 - [Josh Comeau CSS course](https://css-for-js.dev/)
@@ -162,8 +152,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 
 ## YouTube
-
----
 
 ### Broad news and opinions in tech
 
@@ -192,20 +180,13 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Matt D’Avella](https://www.youtube.com/@mattdavella)
 - [Clark Kegley](https://www.youtube.com/@clarkkegley)
 
-
-
 ## Podcasts
-
----
 
 - [Soft skills Podcast](https://softskills.audio/)
 - [Staff Eng Podcast](https://podcast.staffeng.com/)
 - [Frontend First Podcast](https://www.youtube.com/@frontendfirst)
 
-
 ## Communities
-
----
 
 - [Taro](https://www.jointaro.com/)
 - [Small Bets Community](https://dvassallo.gumroad.com/l/small-bets) 
@@ -215,8 +196,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 
 ## LinkedIn
-
----
 
 - [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/)
 - [Gregor Ojstersek](https://www.linkedin.com/in/gregorojstersek/)
