@@ -1,4 +1,4 @@
-# Get to Senior Engineer
+# Path to Senior Engineer handbook
 
 This repo has all the resources you need to reach Senior Software Engineer!
 
