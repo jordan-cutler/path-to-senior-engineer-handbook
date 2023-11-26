@@ -103,6 +103,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [Omar Halabieh 90-day career blueprint](https://www.omarhalabieh.com/90-day-career-blueprint/)
 - [Get Promoted](https://www.amazon.com/Get-Promoted-Really-Missing-Holding-ebook/dp/B09WGJVR4Z/ref=sr_1_3?crid=2HAKFNOON3GT4&keywords=get+promoted&qid=1697908495&sprefix=get+promoted%2Caps%2C103&sr=8-3)
+- [StaffEng.com – Stories of reaching Staff-plus engineering roles](https://staffeng.com/)
 
 ### Engineering
 
@@ -115,6 +116,11 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Engineers Survival Guide](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK/ref=sr_1_1?crid=3DC2GTV9JZOGT&keywords=Engineers+survival+guide&qid=1697901630&sprefix=engineers+survival+guide%2Caps%2C86&sr=8-1)
 - [The Coding Career Handbook](https://learninpublic.org/)
 - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1)
+
+### System Design
+
+- [Front End System Design Guidebook](https://www.greatfrontend.com/system-design)
+- [Awesome Front End System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
 
 ### Leadership
 
@@ -157,6 +163,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Frontendmasters subscription](https://frontendmasters.com/)
 - [Kent C Dodds Epic Web](https://www.epicweb.dev/)
 - [Udemy courses](https://www.udemy.com/)
+- [GreatFrontEnd](https://www.greatfrontend.com/)
 
 
 ## YouTube
@@ -239,4 +246,4 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Petar Ivanov](https://www.linkedin.com/in/petarivanovv9/)
 - [Alex Kliotzkin](https://www.linkedin.com/in/alex-kliotzkin/)
 - [Nordine Hadi](https://www.linkedin.com/in/nordinehadi/)
-
+- [Yangshun Tay](https://www.linkedin.com/in/yangshun/)
