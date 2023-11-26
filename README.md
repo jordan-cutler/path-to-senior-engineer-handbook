@@ -164,7 +164,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Recommended Websites
 - [Frontendmasters subscription](https://frontendmasters.com/)
-- [Kent C Dodds Epic Web](https://www.epicweb.dev/)
 - [Udemy courses](https://www.udemy.com/)
 - [Educative subscription](https://www.educative.io/)
 - [Pluralsight courses](https://www.pluralsight.com/)
