@@ -175,7 +175,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [edX](https://www.edx.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
-- [GreatFrontEnd](https://www.greatfrontend.com/)
 
 
 ## YouTube
