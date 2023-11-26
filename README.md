@@ -149,6 +149,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The art of thinking clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli-ebook/dp/B00IZP6EVQ/ref=sr_1_1?crid=3II2LONJG6CWH&keywords=the+art+of+thinking+clearly&qid=1697902245&sprefix=the+art+of+thinking+clearly%2Caps%2C87&sr=8-1)
 - [Thinking in systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA/ref=sr_1_1?crid=2X0LDBXCN8T01&keywords=thinking+in+systems&qid=1697902386&sprefix=thinking+in+systems%2Caps%2C93&sr=8-1)
 
+### Learn from the top programmers
+- [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
+
 ## Courses
 
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
