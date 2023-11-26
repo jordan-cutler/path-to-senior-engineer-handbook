@@ -168,8 +168,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Future Learn](https://www.futurelearn.com/subjects/it-and-computer-science-courses)
 - [edX](https://www.edx.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
-
-
+- [GreatFrontEnd](https://www.greatfrontend.com/)
 
 ## YouTube
 
