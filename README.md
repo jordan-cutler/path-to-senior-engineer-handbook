@@ -7,6 +7,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Newsletters](#newsletters)
 - [Books](#books)
 - [Courses](#courses)
+- [Papers](#papers)
 - [YouTube](#youtube)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
@@ -165,6 +166,14 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Udemy courses](https://www.udemy.com/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
 
+## Papers
+
+- [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- [Spanner: Google's Globally Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
+- [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
 ## YouTube
 
@@ -204,7 +213,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ## Communities
 
 - [Taro](https://www.jointaro.com/)
-- [Small Bets Community](https://dvassallo.gumroad.com/l/small-bets) 
+- [Small Bets Community](https://dvassallo.gumroad.com/l/small-bets)
 - [Theo - T3](https://discord.com/invite/xHdCpcPHRE)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Kent C. Dodds Discord Community](https://kentcdodds.com/discord)
