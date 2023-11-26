@@ -108,6 +108,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [A philosophy of software design](https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL/ref=sr_1_1?crid=A2CH530E0WJ&keywords=philosophy+of+software+design&qid=1697901440&sprefix=philosophy+of+softwar%2Caps%2C90&sr=8-1)
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655/ref=sr_1_1?crid=3L4V4ZUPL5V3S&keywords=web+scalability+for+startup+engineers&qid=1697901663&sprefix=web+scala%2Caps%2C94&sr=8-1)
+- [Grady Booch collection of software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
 
 ### Software Engineer Overall
 
