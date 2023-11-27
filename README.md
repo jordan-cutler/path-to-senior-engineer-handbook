@@ -30,7 +30,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Strategize Your Career](https://open.substack.com/pub/strategizeyourcareer)
 - [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
 - [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
-- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted?utm_source=mentions)
+- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted?utm_source=mentions){:target="_blank"}
 
 ### Staying up-to-date
 
