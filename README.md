@@ -37,6 +37,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The Pragmatic Engineer](https://open.substack.com/pub/pragmaticengineer)
 - [TLDR](https://tldr.tech/)
 - [Pointer.io](https://www.pointer.io/)
+- [Changelog News](https://changelog.com/news)
 
 ### Frameworks and smart thinking
 
@@ -225,6 +226,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Soft skills Podcast](https://softskills.audio/)
 - [Staff Eng Podcast](https://podcast.staffeng.com/)
 - [Frontend First Podcast](https://www.youtube.com/@frontendfirst)
+- [The Changelog Podcast](https://changelog.fm)
 
 ## Communities
 
@@ -233,6 +235,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Theo - T3](https://discord.com/invite/xHdCpcPHRE)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Kent C. Dodds Discord Community](https://kentcdodds.com/discord)
+- [Changelog Community](https://changelog.com/community)
 
 
 ## LinkedIn
