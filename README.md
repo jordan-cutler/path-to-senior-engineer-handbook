@@ -11,6 +11,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
+- [Other Catalogs](#other-catalogs)
 
 ## Newsletters
 
@@ -248,3 +249,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Nordine Hadi](https://www.linkedin.com/in/nordinehadi/)
 - [Yangshun Tay](https://www.linkedin.com/in/yangshun/)
 - [David Anderson](https://www.linkedin.com/in/scarletink/)
+
+## Other Catalogs
+- [Software Engineer's Library](https://kevinsmith.io/library/)
