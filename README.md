@@ -247,3 +247,4 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Alex Kliotzkin](https://www.linkedin.com/in/alex-kliotzkin/)
 - [Nordine Hadi](https://www.linkedin.com/in/nordinehadi/)
 - [Yangshun Tay](https://www.linkedin.com/in/yangshun/)
+- [David Anderson](https://www.linkedin.com/in/scarletink/)
