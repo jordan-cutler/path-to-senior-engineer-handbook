@@ -109,7 +109,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [A philosophy of software design](https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL)
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
-- [Grady Booch collection of software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
+- [Collection - Grady Booch, Software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
 
 
 ### Software Engineer Overall
@@ -118,6 +118,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Engineers Survival Guide](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 - [The Coding Career Handbook](https://learninpublic.org/)
 - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1)
+- [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
 
 ### System Design
 
@@ -156,8 +157,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The art of thinking clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli-ebook/dp/B00IZP6EVQ)
 - [Thinking in systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
 
-### Learn from the top programmers
-- [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
 
 ## Courses
 
@@ -169,8 +168,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Kent C Dodds Epic Web](https://www.epicweb.dev/)
 - [Udemy courses](https://www.udemy.com/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
-- [Lee Atchison. Software Architecture: from developer to architect](https://www.linkedin.com/learning/software-architecture-from-developer-to-architect)
-- [O'Reilly video training series: Software Architecture](https://www.oreilly.com/software-architecture-video-training-series.html)
 
 
 ## YouTube
