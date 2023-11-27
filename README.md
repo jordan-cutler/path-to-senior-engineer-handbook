@@ -161,6 +161,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Josh Comeau CSS course](https://css-for-js.dev/)
 - [Josh Comeau React course](https://www.joyofreact.com/)
 - [Kent C Dodds Epic React](https://epicreact.dev/)
+- [Kent C Dodds Epic Web](https://www.epicweb.dev/)
 
 ### Recommended Websites
 - [Frontendmasters subscription](https://frontendmasters.com/)
