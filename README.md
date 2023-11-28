@@ -76,6 +76,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Josh Comeau](https://www.joshwcomeau.com/tutorials/) ([RSS Link](https://www.joshwcomeau.com/rss.xml))
 - [Friday Front-end](https://fridayfrontend.curated.co/)
 - [CSS Weekly](https://css-weekly.com/)
+- [Bytes.dev](https://bytes.dev/)
 
 ## Books
 
@@ -160,7 +161,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The art of thinking clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli-ebook/dp/B00IZP6EVQ)
 - [Thinking in systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
 
-
 ## Courses
 
 ### Top Courses
@@ -169,6 +169,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Josh Comeau React course](https://www.joyofreact.com/)
 - [Kent C Dodds Epic React](https://epicreact.dev/)
 - [Kent C Dodds Epic Web](https://www.epicweb.dev/)
+- [Bob Ziroll Learn React for Free](https://scrimba.com/learn/learnreact)
 
 ### Recommended Websites
 - [Frontendmasters subscription](https://frontendmasters.com/)
@@ -182,6 +183,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [edX](https://www.edx.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
+- [Scrimba interactive courses](https://scrimba.com)
 
 ## Papers
 
@@ -227,6 +229,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Staff Eng Podcast](https://podcast.staffeng.com/)
 - [Frontend First Podcast](https://www.youtube.com/@frontendfirst)
 - [The Changelog Podcast](https://changelog.fm)
+- [The Scrimba Podcast](https://scrimba.com/podcast/)
 
 ## Communities
 
@@ -236,7 +239,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Kent C. Dodds Discord Community](https://kentcdodds.com/discord)
 - [Changelog Community](https://changelog.com/community)
-
+- [Scrimba Discord Community](https://scrimba.com/community)
 
 ## LinkedIn
 
