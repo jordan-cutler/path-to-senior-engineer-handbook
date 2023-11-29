@@ -201,6 +201,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Theo - t3.gg](https://www.youtube.com/@t3dotgg)
 - [Fireship](https://www.youtube.com/@Fireship)
 - [ThePrimeTime / Primeagen](https://www.youtube.com/@ThePrimeTimeagen)
+- [TechLinked](https://www.youtube.com/@techlinked)
 
 ### Senior+ Soft skills
 
