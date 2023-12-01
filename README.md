@@ -31,7 +31,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
 - [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
 - [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted?utm_source=mentions)
-- [16x Engineer](https://16x.engineer/)
 
 ### Staying up-to-date
 
@@ -283,3 +282,4 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Other Catalogs
 - [Software Engineer's Library](https://kevinsmith.io/library/)
+- [16x Engineer](https://16x.engineer/)
