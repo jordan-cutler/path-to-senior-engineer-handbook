@@ -38,6 +38,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [TLDR](https://tldr.tech/)
 - [Pointer.io](https://www.pointer.io/)
 - [Changelog News](https://changelog.com/news)
+- [Hungry Minds](https://hungryminds.dev/)
 
 ### Frameworks and smart thinking
 
@@ -115,7 +116,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
 - [Collection - Grady Booch, Software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
 
-
 ### Software Engineer Overall
 
 - [Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
@@ -164,6 +164,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ## Courses
 
 ### Top Courses
+
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
 - [Josh Comeau CSS course](https://css-for-js.dev/)
 - [Josh Comeau React course](https://www.joyofreact.com/)
@@ -172,6 +173,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Bob Ziroll Learn React for Free](https://scrimba.com/learn/learnreact)
 
 ### Recommended Websites
+
 - [Frontendmasters subscription](https://frontendmasters.com/)
 - [Udemy courses](https://www.udemy.com/)
 - [Educative subscription](https://www.educative.io/)
@@ -279,6 +281,8 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Nordine Hadi](https://www.linkedin.com/in/nordinehadi/)
 - [Yangshun Tay](https://www.linkedin.com/in/yangshun/)
 - [David Anderson](https://www.linkedin.com/in/scarletink/)
+- [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
 
 ## Other Catalogs
+
 - [Software Engineer's Library](https://kevinsmith.io/library/)
