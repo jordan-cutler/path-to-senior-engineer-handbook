@@ -286,3 +286,4 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ## Other Catalogs
 
 - [Software Engineer's Library](https://kevinsmith.io/library/)
+- [16x Engineer](https://16x.engineer/)
