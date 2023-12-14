@@ -99,7 +99,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Crucial accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments-ebook/dp/B00C4BDRW6)
 - [It was the best of sentences, it was the worst of sentences](https://www.amazon.com/Was-Best-Sentences-Worst-Crafting-ebook/dp/B0036S4AX6)
 - [On writing well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
-- [The Insider's Guide to Technical Writing](https://www.amazon.co.uk/Insiders-Guide-Technical-Writing/dp/1937434036)
+- [The Insider's Guide to Technical Writing](https://www.amazon.com/Insiders-Guide-Technical-Writing-ebook/dp/B09X2CHHB1)
 
 ### Storytelling
 
