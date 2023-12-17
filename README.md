@@ -186,6 +186,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
 - [Scrimba interactive courses](https://scrimba.com)
+- [Jetbrains Academy learning tracks](https://hyperskill.org/providers/2)
 
 ## Papers
 
