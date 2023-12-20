@@ -99,6 +99,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Crucial accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments-ebook/dp/B00C4BDRW6)
 - [It was the best of sentences, it was the worst of sentences](https://www.amazon.com/Was-Best-Sentences-Worst-Crafting-ebook/dp/B0036S4AX6)
 - [On writing well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+- [The Insider's Guide to Technical Writing](https://www.amazon.com/Insiders-Guide-Technical-Writing-ebook/dp/B09X2CHHB1)
 
 ### Storytelling
 
@@ -171,6 +172,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Kent C Dodds Epic React](https://epicreact.dev/)
 - [Kent C Dodds Epic Web](https://www.epicweb.dev/)
 - [Bob Ziroll Learn React for Free](https://scrimba.com/learn/learnreact)
+- [Google Technical Writing](https://developers.google.com/tech-writing/overview)
 
 ### Recommended Websites
 
@@ -186,6 +188,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GreatFrontEnd](https://www.greatfrontend.com/)
 - [Scrimba interactive courses](https://scrimba.com)
+- [KodeKloud](https://www.kodekloud.com)
 
 ## Papers
 
@@ -232,6 +235,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Frontend First Podcast](https://www.youtube.com/@frontendfirst)
 - [The Changelog Podcast](https://changelog.fm)
 - [The Scrimba Podcast](https://scrimba.com/podcast/)
+- [Developing Leadership](https://www.developingleadership.co/)
+- [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/)
+
 
 ## Communities
 
