@@ -251,6 +251,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Kent C. Dodds Discord Community](https://kentcdodds.com/discord)
 - [Changelog Community](https://changelog.com/community)
 - [Scrimba Discord Community](https://scrimba.com/community)
+- [ladderly.io](https://ladderly.io/)
 
 ## LinkedIn
 
