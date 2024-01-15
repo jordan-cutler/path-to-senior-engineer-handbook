@@ -251,6 +251,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Changelog Community](https://changelog.com/community)
 - [Scrimba Discord Community](https://scrimba.com/community)
 - [ladderly.io](https://ladderly.io/)
+- [Rands Leadership Community (Slack)](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
 ## LinkedIn
 
