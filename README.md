@@ -123,7 +123,6 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - [Engineers Survival Guide](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 - [The Coding Career Handbook](https://learninpublic.org/)
-- [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1)
 - [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
 
 ### System Design
