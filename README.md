@@ -12,6 +12,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
+- [Platforms](#platforms)
 - [Other Catalogs](#other-catalogs)
 
 ## Newsletters
@@ -293,6 +294,21 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [David Anderson](https://www.linkedin.com/in/scarletink/)
 - [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
 - [Jean Lee](https://www.linkedin.com/in/jeanklee/)
+
+## Platforms
+
+### Interview Prep
+
+#### Coding
+- [Leetcode](https://www.leetcode.com)
+- [Neetcode](https://www.neetcode.io)
+- [PyPup](https://www.pypup.com)
+
+#### Mock Interviews
+- [Pramp](https://www.pramp.com)
+- [Hello Interview](https://www.hellointerview.com)
+- [Interviewing IO](https://www.interviewing.io)
+- [IGotAnOffer](https://www.igotanoffer.com)
 
 ## Other Catalogs
 
