@@ -33,6 +33,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
 - [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
 - [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
+- [A Life Engineered](https://newsletter.alifeengineered.com/)
 
 ### Staying up-to-date
 
