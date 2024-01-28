@@ -168,6 +168,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ### Top Courses
 
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
+- [Speedrun to Promotion by Steve Huynh](https://speedruntopromotion.com/)
 - [Josh Comeau CSS course](https://css-for-js.dev/)
 - [Josh Comeau React course](https://www.joyofreact.com/)
 - [Kent C Dodds Epic React](https://epicreact.dev/)
@@ -210,6 +211,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Senior+ Soft skills
 
+- [A Life Engineered - Steve Huynh](https://www.youtube.com/@ALifeEngineered)
 - [Exaltitude Career Growth](https://www.youtube.com/@exaltitude)
 - [LeadDev](https://www.youtube.com/@LeadDev/videos)
 - [Lenny’s Podcast](https://www.youtube.com/@LennysPodcast)
