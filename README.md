@@ -192,6 +192,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [GreatFrontEnd](https://www.greatfrontend.com/)
 - [Scrimba interactive courses](https://scrimba.com)
 - [KodeKloud](https://www.kodekloud.com)
+- [Hyperskill](https://hyperskill.org/tracks)
 
 ## Papers
 
