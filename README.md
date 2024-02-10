@@ -308,11 +308,11 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [PyPup](https://www.pypup.com)
 
 #### Mock Interviews
-- [MeetAPro](https://www.meetapro.com)
 - [Pramp](https://www.pramp.com)
 - [Hello Interview](https://www.hellointerview.com)
 - [Interviewing IO](https://www.interviewing.io)
 - [IGotAnOffer](https://www.igotanoffer.com)
+- [MeetAPro](https://www.meetapro.com)
 
 ## Other Catalogs
 
