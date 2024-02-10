@@ -313,6 +313,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Hello Interview](https://www.hellointerview.com)
 - [Interviewing IO](https://www.interviewing.io)
 - [IGotAnOffer](https://www.igotanoffer.com)
+- [MeetAPro](https://www.meetapro.com)
 
 ## Other Catalogs
 
