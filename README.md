@@ -19,7 +19,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### General software engineer growth
 
-- [High Growth Engineer](https://careercutler.substack.com/)
+- [High Growth Engineer](https://read.highgrowthengineer.com/)
 - [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
 - [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
 - [Engineer’s Codex](https://open.substack.com/pub/engineercodex)
