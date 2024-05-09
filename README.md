@@ -307,6 +307,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Leetcode](https://www.leetcode.com)
 - [Neetcode](https://www.neetcode.io)
 - [PyPup](https://www.pypup.com)
+- [Codemia](https://codemia.io)
 
 #### Mock Interviews
 - [Pramp](https://www.pramp.com)
