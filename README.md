@@ -69,6 +69,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Engineering Leadership](https://open.substack.com/pub/gregorojstersek)
 - [Addy Osmani](https://addyosmani.com/blog/) ([RSS Link](https://addyosmani.com/feed.xml))
 - [Irrational Exuberance](https://lethain.com/newsletter/)
+- [Leadership Letters](https://www.leadership-letters.com)
 
 ### Web-dev specific
 
@@ -298,6 +299,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [David Anderson](https://www.linkedin.com/in/scarletink/)
 - [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
 - [Jean Lee](https://www.linkedin.com/in/jeanklee/)
+- [Akash Mukherjee](https://www.linkedin.com/in/akashmuk/)
 
 ## Platforms
 
