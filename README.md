@@ -141,6 +141,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever-ebook/dp/B01BUIBBZI)
 - [The Advice Trap](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B)
 - [The making of a manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2)
+- [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Need](https://www.amazon.com/Become-Effective-Software-Engineering-Manager/dp/1680507249)
 
 ### Persuasion & influence
 
