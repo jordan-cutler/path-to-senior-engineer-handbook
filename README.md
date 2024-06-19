@@ -132,6 +132,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [Front End System Design Guidebook](https://www.greatfrontend.com/system-design)
 - [Awesome Front End System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Leadership
 
