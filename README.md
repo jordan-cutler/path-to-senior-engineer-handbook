@@ -307,6 +307,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Interview Prep
 
+#### Questions
+- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
 #### Coding
 - [Leetcode](https://www.leetcode.com)
 - [Neetcode](https://www.neetcode.io)
