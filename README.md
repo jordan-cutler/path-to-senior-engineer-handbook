@@ -109,7 +109,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [Storyworthy](https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling-ebook/dp/B07CV2PFYJ)
 
-### Career growth & promotions
+### Career growth and promotions
 
 - [Omar Halabieh 90-day career blueprint](https://www.omarhalabieh.com/90-day-career-blueprint/)
 - [Get Promoted](https://www.amazon.com/Get-Promoted-Really-Missing-Holding-ebook/dp/B09WGJVR4Z)
@@ -128,7 +128,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The Coding Career Handbook](https://learninpublic.org/)
 - [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
 
-### System Design
+### System design
 
 - [Front End System Design Guidebook](https://www.greatfrontend.com/system-design)
 - [Awesome Front End System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
@@ -144,7 +144,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The making of a manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2)
 - [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Need](https://www.amazon.com/Become-Effective-Software-Engineering-Manager/dp/1680507249)
 
-### Persuasion & influence
+### Persuasion and influence
 
 - [Influence: The psychology of persuasion](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN)
 - [Yes - 50 scientifically proven ways to be persuasive](https://www.amazon.com/Yes-Scientifically-Proven-Ways-Persuasive-ebook/dp/B001F51X64)
@@ -208,7 +208,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## YouTube
 
-### Broad news & opinions in tech
+### Broad news and opinions in tech
 
 - [Theo - t3.gg](https://www.youtube.com/@t3dotgg)
 - [Fireship](https://www.youtube.com/@Fireship)
@@ -222,14 +222,14 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Lenny’s Podcast](https://www.youtube.com/@LennysPodcast)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
 
-### Frontend/CSS tips & tricks
+### Frontend/CSS tips and tricks
 
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 - [Matt Pocock (Typescript)](https://www.youtube.com/@mattpocockuk)
 - [Sam Selikoff](https://www.youtube.com/@samselikoff)
 
-### Productivity, side income, & personal growth
+### Productivity, side income, and personal growth
 
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
 - [Jeff Su](https://www.youtube.com/@JeffSu)
