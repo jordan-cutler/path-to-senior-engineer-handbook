@@ -1,4 +1,4 @@
-# Path to Senior Engineer handbook
+# Path to Senior Engineer Handbook
 
 This repo has all the resources you need to reach Senior Software Engineer!
 
@@ -13,7 +13,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
 - [Platforms](#platforms)
-- [Other Catalogs](#other-catalogs)
+- [Other catalogs](#other-catalogs)
 
 ## Newsletters
 
@@ -56,7 +56,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Byte-Sized Design](https://open.substack.com/users/134878169-byte-sized-design?utm_source=mentions)
 - [The Polymathic Engineer](https://open.substack.com/pub/francofernando)
 
-### Reliability Engineering
+### Reliability engineering
 
 - [SRE Weekly](https://sreweekly.com/)
 - [Platform Engineering Weekly](https://www.platformengineeringweekly.com/)
@@ -109,7 +109,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [Storyworthy](https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling-ebook/dp/B07CV2PFYJ)
 
-### Career growth and promotions
+### Career growth & promotions
 
 - [Omar Halabieh 90-day career blueprint](https://www.omarhalabieh.com/90-day-career-blueprint/)
 - [Get Promoted](https://www.amazon.com/Get-Promoted-Really-Missing-Holding-ebook/dp/B09WGJVR4Z)
@@ -121,7 +121,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
 - [Collection - Grady Booch, Software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
 
-### Software Engineer Overall
+### Software engineer overall
 
 - [Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - [Engineers Survival Guide](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
@@ -169,7 +169,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Courses
 
-### Top Courses
+### Top courses
 
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
 - [Speedrun to Promotion by Steve Huynh](https://speedruntopromotion.com/)
@@ -180,7 +180,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Bob Ziroll Learn React for Free](https://scrimba.com/learn/learnreact)
 - [Google Technical Writing](https://developers.google.com/tech-writing/overview)
 
-### Recommended Websites
+### Recommended websites
 
 - [Frontendmasters subscription](https://frontendmasters.com/)
 - [Udemy courses](https://www.udemy.com/)
@@ -188,7 +188,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Pluralsight courses](https://www.pluralsight.com/)
 - [Udacity courses](https://www.udacity.com/)
 - [Coursera courses](https://www.coursera.org/)
-- [Linkedin Learning](https://www.linkedin.com/learning/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
 - [Future Learn](https://www.futurelearn.com/subjects/it-and-computer-science-courses)
 - [edX](https://www.edx.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
@@ -208,13 +208,13 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## YouTube
 
-### Broad news and opinions in tech
+### Broad news & opinions in tech
 
 - [Theo - t3.gg](https://www.youtube.com/@t3dotgg)
 - [Fireship](https://www.youtube.com/@Fireship)
 - [ThePrimeTime / Primeagen](https://www.youtube.com/@ThePrimeTimeagen)
 
-### Senior+ Soft skills
+### Senior+ soft skills
 
 - [A Life Engineered - Steve Huynh](https://www.youtube.com/@ALifeEngineered)
 - [Exaltitude Career Growth](https://www.youtube.com/@exaltitude)
@@ -222,14 +222,14 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Lenny’s Podcast](https://www.youtube.com/@LennysPodcast)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
 
-### Frontend/CSS tips and tricks
+### Frontend/CSS tips & tricks
 
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 - [Matt Pocock (Typescript)](https://www.youtube.com/@mattpocockuk)
 - [Sam Selikoff](https://www.youtube.com/@samselikoff)
 
-### Productivity, side income, and personal growth
+### Productivity, side income, & personal growth
 
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
 - [Jeff Su](https://www.youtube.com/@JeffSu)
@@ -305,22 +305,22 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Platforms
 
-### Interview Prep
+### Interview prep
 
 #### Coding
-- [Leetcode](https://www.leetcode.com)
-- [Neetcode](https://www.neetcode.io)
+- [LeetCode](https://www.leetcode.com)
+- [NeetCode](https://www.neetcode.io)
 - [PyPup](https://www.pypup.com)
 - [Codemia](https://codemia.io)
 
-#### Mock Interviews
+#### Mock interviews
 - [Pramp](https://www.pramp.com)
 - [Hello Interview](https://www.hellointerview.com)
 - [Interviewing IO](https://www.interviewing.io)
 - [IGotAnOffer](https://www.igotanoffer.com)
 - [MeetAPro](https://www.meetapro.com)
 
-## Other Catalogs
+## Other catalogs
 
 - [Software Engineer's Library](https://kevinsmith.io/library/)
 - [16x Engineer](https://16x.engineer/)
