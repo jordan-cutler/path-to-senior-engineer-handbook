@@ -172,7 +172,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ### Top courses
 
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
+- [Career growth courses on JoinTaro](https://www.jointaro.com/courses/)
 - [Speedrun to Promotion by Steve Huynh](https://speedruntopromotion.com/)
+- [Become a go-to expert on your team by Jordan Cutler](https://www.jointaro.com/course/become-the-go-to-expert-as-a-software-engineer/)
 - [Josh Comeau CSS course](https://css-for-js.dev/)
 - [Josh Comeau React course](https://www.joyofreact.com/)
 - [Kent C Dodds Epic React](https://epicreact.dev/)
