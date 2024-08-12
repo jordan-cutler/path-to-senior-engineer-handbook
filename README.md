@@ -309,9 +309,12 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Platforms
 
+### General leveling up
+- [Codecrafters: Practice writing complex software (affiliate - 40% off)](https://app.codecrafters.io/join?via=jordan-cutler) [non-affiliate link version](https://app.codecrafters.io)
+
 ### Interview prep
 
-#### Coding
+#### Coding interview
 - [LeetCode](https://www.leetcode.com)
 - [NeetCode](https://www.neetcode.io)
 - [PyPup](https://www.pypup.com)
