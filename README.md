@@ -321,6 +321,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [PyPup](https://www.pypup.com)
 - [Codemia](https://codemia.io)
 
+### LLD/Machine Coding Interview
+- [LLDcoding](https://lldcoding.com)
+
 #### Mock interviews
 - [Pramp](https://www.pramp.com)
 - [Hello Interview](https://www.hellointerview.com)
