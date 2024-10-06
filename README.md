@@ -46,6 +46,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ### Frameworks and smart thinking
 
 - [Wes Kao's Newsletter](https://open.substack.com/pub/weskao)
+- [Operator's Handbook](https://www.operatorshandbook.com/)
 - [Alex Brogan frameworks](https://www.alexbrogan.com/)
 
 ### System design
