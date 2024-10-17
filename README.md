@@ -200,6 +200,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Scrimba interactive courses](https://scrimba.com)
 - [KodeKloud](https://www.kodekloud.com)
 - [Hyperskill](https://hyperskill.org/tracks)
+- [LabEx](https://labex.io/)
 
 ## Papers
 
