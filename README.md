@@ -322,6 +322,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [NeetCode](https://www.neetcode.io)
 - [PyPup](https://www.pypup.com)
 - [Codemia](https://codemia.io)
+- [bugfree.ai](https://bugfree.ai?utm_source=git-path-to-senior-engineer-handbook)
 
 #### Mock interviews
 - [Pramp](https://www.pramp.com)
