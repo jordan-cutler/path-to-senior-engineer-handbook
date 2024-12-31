@@ -331,6 +331,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [IGotAnOffer](https://www.igotanoffer.com)
 - [MeetAPro](https://www.meetapro.com)
 
+## Helpful Tools
+- [WriteEdge for writing tech specs](https://www.writeedge.ai/)
+
 ## Other catalogs
 
 - [Software Engineer's Library](https://kevinsmith.io/library/)
