@@ -330,6 +330,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Interviewing IO](https://www.interviewing.io)
 - [IGotAnOffer](https://www.igotanoffer.com)
 - [MeetAPro](https://www.meetapro.com)
+- [Easyclimbtech](https://www.easyclimb.tech)
 
 ## Helpful Tools
 - [WriteEdge for writing tech specs](https://www.writeedge.ai/)
