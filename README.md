@@ -71,6 +71,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Addy Osmani](https://addyosmani.com/blog/) ([RSS Link](https://addyosmani.com/feed.xml))
 - [Irrational Exuberance](https://lethain.com/newsletter/)
 - [Leadership Letters](https://www.leadership-letters.com)
+- [Blog for Engineering Managers](https://blog4ems.com)
 
 ### Web-dev specific
 
