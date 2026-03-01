@@ -332,6 +332,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [MeetAPro](https://www.meetapro.com)
 - [Easyclimbtech](https://www.easyclimb.tech)
 - [Interview Kickstart](https://learn.interviewkickstart.com/ace-your-mock-interview)
+- [AI Interview Coach](https://em-tools.io/interview-prep)
 
 ## Helpful Tools
 - [WriteEdge for writing tech specs](https://www.writeedge.ai/)
