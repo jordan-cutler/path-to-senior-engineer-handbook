@@ -51,6 +51,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### System design
 
+- [Hello, World!](https://hw.glich.co)
 - [System Design Newsletter](https://open.substack.com/pub/systemdesignone)
 - [Quastor](https://blog.quastor.org/)
 - [ByteByteGo Newsletter](https://open.substack.com/pub/bytebytego)
