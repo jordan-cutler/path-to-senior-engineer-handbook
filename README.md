@@ -339,6 +339,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Job boards
 - [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI and machine learning engineering roles, with 7,400+ jobs from 400+ companies and a free REST API.
+- [FoundRole](https://www.foundrole.com) - AI-powered job search platform with a Kanban application tracker, career tools, and hourly-updated listings — free.
 
 ## Helpful Tools
 - [WriteEdge for writing tech specs](https://www.writeedge.ai/)
