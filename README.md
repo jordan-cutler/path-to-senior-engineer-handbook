@@ -328,6 +328,9 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [PracHub](https://prachub.com)
 - [bugfree.ai](https://bugfree.ai?utm_source=git-path-to-senior-engineer-handbook)
 
+### LLD/Machine Coding Interview
+- [LLDcoding](https://lldcoding.com)
+
 #### Mock interviews
 - [Pramp](https://www.pramp.com)
 - [Hello Interview](https://www.hellointerview.com)
