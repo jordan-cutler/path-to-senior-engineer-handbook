@@ -124,6 +124,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [A philosophy of software design](https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL)
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
 - [Collection - Grady Booch, Software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
 ### Software engineer overall
 
