@@ -205,6 +205,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [KodeKloud](https://www.kodekloud.com)
 - [Hyperskill](https://hyperskill.org/tracks)
 - [LabEx](https://labex.io/)
+- [InterviewLegend](https://interviewlegend.com) - breaks down what specific companies ask across coding, system design, and behavioral interviews, based on first-hand reports
 
 ## Papers
 
