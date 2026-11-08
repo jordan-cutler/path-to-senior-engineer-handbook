@@ -342,6 +342,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Job boards
 - [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI and machine learning engineering roles, with 7,400+ jobs from 400+ companies and a free REST API.
+- [CookLLM AI job board](https://cookllm.com/en/jobs/board) - Free board of 20,000+ open roles at 1,300+ AI companies, read from their career pages every 6 hours, with level, region, visa sponsorship and remote filters.
 - [Jobs in JS](https://jobsinjs.com/) - Job board for JavaScript developers.
 
 ## Helpful Tools
