@@ -339,6 +339,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Easyclimbtech](https://www.easyclimb.tech)
 - [Interview Kickstart](https://learn.interviewkickstart.com/ace-your-mock-interview)
 - [AI Interview Coach](https://em-tools.io/interview-prep)
+- [Nyrion](https://nyrion.ai) - practice AI-assisted coding interviews, with an interviewer who asks about your code
 
 ### Job boards
 - [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI and machine learning engineering roles, with 7,400+ jobs from 400+ companies and a free REST API.
