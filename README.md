@@ -329,6 +329,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Codemia](https://codemia.io)
 - [PracHub](https://prachub.com)
 - [bugfree.ai](https://bugfree.ai?utm_source=git-path-to-senior-engineer-handbook)
+- [Land the Lab](https://landthelab.com)
 
 #### Mock interviews
 - [Pramp](https://www.pramp.com)
