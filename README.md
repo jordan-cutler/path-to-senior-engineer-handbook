@@ -342,6 +342,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Job boards
 - [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI and machine learning engineering roles, with 7,400+ jobs from 400+ companies and a free REST API.
+- [EuroJobs.ai](https://eurojobs.ai) - Job board for IT roles in the EU, UK and Switzerland, with about 28,000 jobs read hourly from employers' own job boards and a free JSON API.
 - [Jobs in JS](https://jobsinjs.com/) - Job board for JavaScript developers.
 
 ## Helpful Tools
