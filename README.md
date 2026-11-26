@@ -62,6 +62,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 ### Reliability engineering
 
 - [SRE Weekly](https://sreweekly.com/)
+- [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/)
 - [Platform Engineering Weekly](https://platformweekly.com/)
 - [Alex Ewerlöf Notes/SRE](https://blog.alexewerlof.com/s/sre)
 
