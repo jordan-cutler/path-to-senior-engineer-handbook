@@ -346,6 +346,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Helpful Tools
 - [WriteEdge for writing tech specs](https://www.writeedge.ai/)
+- [Digital Footprint Check: what companies find about you before an interview](https://www.marian.coach/blog/digital-footprint-check/)
 
 ## Other catalogs
 
